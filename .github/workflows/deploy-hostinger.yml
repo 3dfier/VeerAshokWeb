@@ -5,6 +5,7 @@ on:
     branches: ["main", "release1"]
   workflow_dispatch:
 
+
 jobs:
   web-deploy:
     name: Build and Deploy to Hostinger
