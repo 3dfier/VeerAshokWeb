@@ -60,7 +60,7 @@ export const ContactPage = () => {
             {[
               { icon: <MapPin />, title: 'Chakan Facility', val: 'Industrial Hub, Chakan, Pune, Maharashtra' },
               { icon: <MapPin />, title: 'Wagholi Office', val: 'Logistics Center, Wagholi, Pune, Maharashtra' },
-              { icon: <Phone />, title: 'Sales Contacts', val: 'Phone: 8605067506\nEmail: info@veerashokgroup.com' },
+              { icon: <Phone />, title: 'Sales Contacts', val: 'Phone: 8605067506\nEmail: contact@veerashok.com' },
             ].map((info, i) => (
               <div key={i} className="flex space-x-6 items-start">
                 <div className="text-primary mt-1">{info.icon}</div>
