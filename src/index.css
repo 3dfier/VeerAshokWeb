@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #E85F0A;
+  --color-navy: #04364A;
+  --color-canvas: #F9F7F5;
+  --color-textDark: #1A1A1A;
+  --color-footer: #032533;
+}
+
+@layer base {
+  body {
+    @apply bg-canvas text-textDark font-sans;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
+}
