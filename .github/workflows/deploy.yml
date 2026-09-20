@@ -1,0 +1,39 @@
+name: Deploy Veer Ashok Web to Hostinger FTP
+
+on:
+  push:
+    branches:
+      - main
+      - release1
+  workflow_dispatch:
+
+jobs:
+  web-deploy:
+    name: Sync Static MPA to Hostinger
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: FTP Deploy to Hostinger public_html
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: public_html/
+          protocol: ftp
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.github*
+            **/.github*/**
+            **/node_modules/**
+            **/src/**
+            **/dist/**
+            package*.json
+            tsconfig*.json
+            vite.config.ts
+            eslint.config.js
+            postcss.config.js
+            README.md

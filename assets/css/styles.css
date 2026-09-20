@@ -1,0 +1,182 @@
+/* Veer Ashok Group - Global Stylesheet (MPA) */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --font-heading: 'Outfit', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --navy: #04364A;
+  --navy-dark: #021f2b;
+  --navy-light: #0d4b64;
+  --primary: #E85F0A;
+  --primary-hover: #cf5104;
+  --primary-light: #fff2ea;
+  --canvas-bg: #F9F7F5;
+  --text-main: #1F2937;
+  --text-muted: #6B7280;
+  --border-light: #E5E7EB;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-body);
+  color: var(--text-main);
+  background-color: var(--canvas-bg);
+}
+
+body {
+  min-h-screen: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* Custom Tailwind Helper Classes */
+.bg-navy { background-color: var(--navy); }
+.bg-navy-dark { background-color: var(--navy-dark); }
+.bg-primary { background-color: var(--primary); }
+.bg-primary-hover { background-color: var(--primary-hover); }
+.bg-canvas { background-color: var(--canvas-bg); }
+
+.text-navy { color: var(--navy); }
+.text-primary { color: var(--primary); }
+
+.border-primary { border-color: var(--primary); }
+
+/* Buttons & Micro-Interactions */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--primary);
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0.875rem 2rem;
+  border-radius: 9999px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 20px -5px rgba(232, 95, 10, 0.4);
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 15px 25px -5px rgba(232, 95, 10, 0.5);
+}
+
+.btn-outline {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0.875rem 2rem;
+  border-radius: 9999px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.btn-outline:hover {
+  background-color: #ffffff;
+  color: var(--navy);
+  transform: translateY(-2px);
+}
+
+/* Glassmorphism & Cards */
+.glass-card {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.07);
+}
+
+.card-hover-lift {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-hover-lift:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 30px -10px rgba(4, 54, 74, 0.12);
+}
+
+/* Mobile Drawer Dropdown Smooth Fade */
+#mobile-drawer {
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+/* Section Header Badges */
+.badge-subtitle {
+  color: var(--primary);
+  font-weight: 800;
+  font-size: 0.875rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+/* Pulse / Glow Animations */
+@keyframes pulseGlow {
+  0%, 100% { opacity: 0.8; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.03); }
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 3s infinite ease-in-out;
+}
+
+/* Client Logo Grid items */
+.client-logo-box {
+  background-color: #ffffff;
+  border: 1px solid var(--border-light);
+  border-radius: 1rem;
+  padding: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 4/3;
+  transition: all 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+  position: relative;
+}
+
+@media (min-width: 640px) {
+  .client-logo-box {
+    padding: 1rem;
+  }
+}
+
+.client-logo-box:hover {
+  border-color: rgba(232, 95, 10, 0.45);
+  transform: translateY(-6px) scale(1.05);
+  box-shadow: 0 15px 30px -10px rgba(4, 54, 74, 0.15), 0 0 15px rgba(232, 95, 10, 0.15);
+  z-index: 10;
+}
+
+/* Hide scrollbars for horizontal tab scrolling on small screens */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Fluid responsive image safety */
+img {
+  max-width: 100%;
+  height: auto;
+}

@@ -3,7 +3,7 @@ import { ACHIEVEMENTS_DATA } from '../constants/data';
 import { Trophy } from 'lucide-react';
 
 export const ClientsPage = () => {
-  const clientLogos = Array.from({ length: 54 }, (_, i) => ({
+  const clientLogos = Array.from({ length: 66 }, (_, i) => ({
     id: i + 1,
     logoUrl: `assets/images/clients/${i + 1}.png`,
     alt: `Client Logo ${i + 1}`,

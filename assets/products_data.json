@@ -1,0 +1,786 @@
+{
+  "stationery": [
+    {
+      "title": "Files",
+      "img": "../assets/images/products/stationery/files.jpg"
+    },
+    {
+      "title": "SDI Cutter",
+      "img": "../assets/images/products/stationery/sdi-cutter.jpg"
+    },
+    {
+      "title": "SDI Blade",
+      "img": "../assets/images/products/stationery/sdi-blade.jpg"
+    },
+    {
+      "title": "Tape Dispenser",
+      "img": "../assets/images/products/stationery/tape-dispenser.jpg"
+    },
+    {
+      "title": "Info Folder",
+      "img": "../assets/images/products/stationery/info-folder.jpg"
+    },
+    {
+      "title": "Magnetic Folder A4",
+      "img": "../assets/images/products/stationery/magnetic-folder-a4.jpg"
+    },
+    {
+      "title": "Magnetic Folder A3",
+      "img": "../assets/images/products/stationery/magnetic-folder-a3.jpg"
+    },
+    {
+      "title": "Notice Board",
+      "img": "../assets/images/products/stationery/notice-board.jpg"
+    },
+    {
+      "title": "White Board",
+      "img": "../assets/images/products/stationery/white-board.jpg"
+    },
+    {
+      "title": "Key Holder",
+      "img": "../assets/images/products/stationery/key-holder.jpg"
+    },
+    {
+      "title": "Sticker Paper",
+      "img": "../assets/images/products/stationery/sticker-paper.jpg"
+    },
+    {
+      "title": "A4 Xerox Paper",
+      "img": "../assets/images/products/stationery/a4-xerox-paper.jpg"
+    },
+    {
+      "title": "Box File / Voucher File",
+      "img": "../assets/images/products/stationery/box-file-voucher-file.jpg"
+    },
+    {
+      "title": "Register",
+      "img": "../assets/images/products/stationery/register.jpg"
+    },
+    {
+      "title": "Stapler No. 10",
+      "img": "../assets/images/products/stationery/stapler-no-10.jpg"
+    },
+    {
+      "title": "Stapler HP 45",
+      "img": "../assets/images/products/stationery/stapler-hp-45.jpg"
+    },
+    {
+      "title": "Stapler Pin",
+      "img": "../assets/images/products/stationery/stapler-pin.jpg"
+    },
+    {
+      "title": "Punch Machine",
+      "img": "../assets/images/products/stationery/punch-machine.jpg"
+    },
+    {
+      "title": "Scissor",
+      "img": "../assets/images/products/stationery/scissor.jpg"
+    },
+    {
+      "title": "Tape Dispenser Hand",
+      "img": "../assets/images/products/stationery/tape-dispenser-hand.jpg"
+    },
+    {
+      "title": "Permanent Marker",
+      "img": "../assets/images/products/stationery/permanent-marker.jpg"
+    },
+    {
+      "title": "OHP Marker",
+      "img": "../assets/images/products/stationery/ohp-marker.jpg"
+    },
+    {
+      "title": "Whiteboard Marker",
+      "img": "../assets/images/products/stationery/whiteboard-marker.jpg"
+    },
+    {
+      "title": "Paint Marker",
+      "img": "../assets/images/products/stationery/paint-marker.jpg"
+    },
+    {
+      "title": "Rubber Band Nylon",
+      "img": "../assets/images/products/stationery/rubber-band-nylon.jpg"
+    },
+    {
+      "title": "Flip Chart Roll",
+      "img": "../assets/images/products/stationery/flip-chart-roll.jpg"
+    },
+    {
+      "title": "Plotter Paper",
+      "img": "../assets/images/products/stationery/plotter-paper.jpg"
+    },
+    {
+      "title": "Thermal Paper Roll",
+      "img": "../assets/images/products/stationery/thermal-paper-roll.jpg"
+    },
+    {
+      "title": "Office Tray",
+      "img": "../assets/images/products/stationery/office-tray.jpg"
+    },
+    {
+      "title": "Use & Throw Pen",
+      "img": "../assets/images/products/stationery/use-and-throw-pen.jpg"
+    },
+    {
+      "title": "Binder Clips",
+      "img": "../assets/images/products/stationery/binder-clips.jpg"
+    },
+    {
+      "title": "Fevistick",
+      "img": "../assets/images/products/stationery/fevistick.jpg"
+    },
+    {
+      "title": "Glue Gun",
+      "img": "../assets/images/products/stationery/glue-gun.jpg"
+    },
+    {
+      "title": "Paste",
+      "img": "../assets/images/products/stationery/paste.jpg"
+    },
+    {
+      "title": "Fevikwik 203",
+      "img": "../assets/images/products/stationery/fevikwik-203.jpg"
+    },
+    {
+      "title": "Sticky Notes",
+      "img": "../assets/images/products/stationery/sticky-notes.jpg"
+    },
+    {
+      "title": "Battery Cell",
+      "img": "../assets/images/products/stationery/battery-cell.jpg"
+    },
+    {
+      "title": "Push Pin",
+      "img": "../assets/images/products/stationery/push-pin.jpg"
+    },
+    {
+      "title": "Drawing Pin",
+      "img": "../assets/images/products/stationery/drawing-pin.jpg"
+    },
+    {
+      "title": "U Clip",
+      "img": "../assets/images/products/stationery/u-clip.jpg"
+    },
+    {
+      "title": "2D File",
+      "img": "../assets/images/products/stationery/2d-file.jpg"
+    },
+    {
+      "title": "3D File",
+      "img": "../assets/images/products/stationery/3d-file.jpg"
+    },
+    {
+      "title": "4d File",
+      "img": "../assets/images/products/stationery/4d-file.jpg"
+    },
+    {
+      "title": "Box File",
+      "img": "../assets/images/products/stationery/box-file.jpg"
+    },
+    {
+      "title": "Certificate File",
+      "img": "../assets/images/products/stationery/certificate-file.jpg"
+    },
+    {
+      "title": "Zip File",
+      "img": "../assets/images/products/stationery/zip-file.jpg"
+    },
+    {
+      "title": "Button File",
+      "img": "../assets/images/products/stationery/button-file.jpg"
+    },
+    {
+      "title": "L Folder",
+      "img": "../assets/images/products/stationery/l-folder.jpg"
+    },
+    {
+      "title": "U Folder",
+      "img": "../assets/images/products/stationery/u-folder.jpg"
+    },
+    {
+      "title": "Sheet Protector",
+      "img": "../assets/images/products/stationery/sheet-protector.jpg"
+    }
+  ],
+  "housekeeping": [
+    {
+      "title": "Acid",
+      "img": "../assets/images/products/housekeeping/acid.jpg"
+    },
+    {
+      "title": "Phynel",
+      "img": "../assets/images/products/housekeeping/phynel.jpg"
+    },
+    {
+      "title": "Floor Cleaner",
+      "img": "../assets/images/products/housekeeping/floor-cleaner.jpg"
+    },
+    {
+      "title": "Glass Cleaner",
+      "img": "../assets/images/products/housekeeping/glass-cleaner.jpg"
+    },
+    {
+      "title": "Toilet Cleaner",
+      "img": "../assets/images/products/housekeeping/toilet-cleaner.jpg"
+    },
+    {
+      "title": "Hand Wash",
+      "img": "../assets/images/products/housekeeping/dettol-handwash.jpg"
+    },
+    {
+      "title": "Detergent",
+      "img": "../assets/images/products/housekeeping/detergent.jpg"
+    },
+    {
+      "title": "Brush",
+      "img": "../assets/images/products/housekeeping/brush.jpg"
+    },
+    {
+      "title": "Wet Mop",
+      "img": "../assets/images/products/housekeeping/wet-mop.jpg"
+    },
+    {
+      "title": "Dry Mop",
+      "img": "../assets/images/products/housekeeping/dry-mop.jpg"
+    },
+    {
+      "title": "Colin Glass Cleaner",
+      "img": "../assets/images/products/housekeeping/colin-glass-cleaner.jpg"
+    },
+    {
+      "title": "Industrial Wipers",
+      "img": "../assets/images/products/housekeeping/industrial-wiper.jpg"
+    },
+    {
+      "title": "T Brush",
+      "img": "../assets/images/products/housekeeping/T-brush.jpg"
+    },
+    {
+      "title": "Spider Net Brush",
+      "img": "../assets/images/products/housekeeping/spider-net-brush.jpg"
+    },
+    {
+      "title": "Caddy Basket",
+      "img": "../assets/images/products/housekeeping/caddy-basket.jpg"
+    },
+    {
+      "title": "Spin Mop",
+      "img": "../assets/images/products/housekeeping/spin-mop.jpg"
+    },
+    {
+      "title": "Plastic Broom",
+      "img": "../assets/images/products/housekeeping/plastic-broom.jpg"
+    },
+    {
+      "title": "Hard Broom",
+      "img": "../assets/images/products/housekeeping/hard-broom.jpg"
+    },
+    {
+      "title": "Soft Broom",
+      "img": "../assets/images/products/housekeeping/soft-broom.jpg"
+    },
+    {
+      "title": "Lifebuoy Handwash",
+      "img": "../assets/images/products/housekeeping/life-buoy-handwash.jpg"
+    },
+    {
+      "title": "Taski Floor Cleaner",
+      "img": "../assets/images/products/housekeeping/taski-floor-cleaner.jpg"
+    },
+    {
+      "title": "Taski Glass Cleaner",
+      "img": "../assets/images/products/housekeeping/taski-glass-cleaner.jpg"
+    },
+    {
+      "title": "Surf Excel",
+      "img": "../assets/images/products/housekeeping/surf-excel-detergant.jpg"
+    },
+    {
+      "title": "Small Dustbin",
+      "img": "../assets/images/products/housekeeping/small-dustbin.jpg"
+    },
+    {
+      "title": "Pedal Dustbin",
+      "img": "../assets/images/products/housekeeping/pedal-dustbin.jpg"
+    },
+    {
+      "title": "120 Ltr Dustbin",
+      "img": "../assets/images/products/housekeeping/120ltr-dustbin.jpg"
+    },
+    {
+      "title": "80 Ltr Dustbin",
+      "img": "../assets/images/products/housekeeping/80ltr-dustbin.jpg"
+    },
+    {
+      "title": "Wheel Dustbin Large",
+      "img": "../assets/images/products/housekeeping/wheel-large-dustbin.jpg"
+    },
+    {
+      "title": "Metal Dustbin",
+      "img": "../assets/images/products/housekeeping/metal-dustbin.jpg"
+    },
+    {
+      "title": "Air Revitalizer",
+      "img": "../assets/images/products/housekeeping/air-revialtizer.jpg"
+    },
+    {
+      "title": "Air Spray Bottle",
+      "img": "../assets/images/products/housekeeping/spray-bottle.jpg"
+    },
+    {
+      "title": "Air Pocket",
+      "img": "../assets/images/products/housekeeping/aer-pocket.jpg"
+    },
+    {
+      "title": "Odonil",
+      "img": "../assets/images/products/housekeeping/odonil.jpg"
+    },
+    {
+      "title": "Napkins",
+      "img": "../assets/images/products/housekeeping/kimberly-napkin.jpg"
+    },
+    {
+      "title": "Toilet Rolls Tissues",
+      "img": "../assets/images/products/housekeeping/toilet-roll.jpg"
+    },
+    {
+      "title": "Jumbo Toilet Roll Tissues",
+      "img": "../assets/images/products/housekeeping/jumbo-toilet-roll.jpg"
+    },
+    {
+      "title": "C Fold Tissues",
+      "img": "../assets/images/products/housekeeping/c-fold.jpg"
+    },
+    {
+      "title": "M Fold Tissues",
+      "img": "../assets/images/products/housekeeping/m-fold.jpg"
+    },
+    {
+      "title": "Car Tissues",
+      "img": "../assets/images/products/housekeeping/car-tissue.jpg"
+    },
+    {
+      "title": "Hand Blower",
+      "img": "../assets/images/products/housekeeping/hand-blower.jpg"
+    },
+    {
+      "title": "Hand Dryer",
+      "img": "../assets/images/products/housekeeping/hand-dryer.jpg"
+    },
+    {
+      "title": "Soap Dispenser",
+      "img": "../assets/images/products/housekeeping/soap-despenser.jpg"
+    },
+    {
+      "title": "Tissue Dispenser",
+      "img": "../assets/images/products/housekeeping/tissue-dispenser.jpg"
+    },
+    {
+      "title": "Tray For Claning Items",
+      "img": "../assets/images/products/housekeeping/cleaning-tray.jpg"
+    },
+    {
+      "title": "Floor Mats",
+      "img": "../assets/images/products/housekeeping/floor-mat.jpg"
+    },
+    {
+      "title": "Buckets",
+      "img": "../assets/images/products/housekeeping/buckets.jpg"
+    },
+    {
+      "title": "Mugs",
+      "img": "../assets/images/products/housekeeping/mugs.jpg"
+    },
+    {
+      "title": "Garbage Bags",
+      "img": "../assets/images/products/housekeeping/garbage-bags.jpg"
+    },
+    {
+      "title": "Micro Fiber Duster",
+      "img": "../assets/images/products/housekeeping/micro-fiber-duster.jpg"
+    },
+    {
+      "title": "Naphthalene Balls",
+      "img": "../assets/images/products/housekeeping/napthelene-balls.jpg"
+    },
+    {
+      "title": "Taza Wrap",
+      "img": "../assets/images/products/housekeeping/taza-wrap.jpg"
+    }
+  ],
+  "packaging": [
+    {
+      "title": "EPE Foam Sheet/Roll",
+      "img": "../assets/images/products/packaging/epe-foam.jpg"
+    },
+    {
+      "title": "Bubble Rolls",
+      "img": "../assets/images/products/packaging/bubble-roll.jpg"
+    },
+    {
+      "title": "Strech Film",
+      "img": "../assets/images/products/packaging/strch-film.jpg"
+    },
+    {
+      "title": "Cello Tape",
+      "img": "../assets/images/products/packaging/cello-tape.jpg"
+    },
+    {
+      "title": "Bopp Tape",
+      "img": "../assets/images/products/packaging/bopp-tape.jpg"
+    },
+    {
+      "title": "Flooring Tape",
+      "img": "../assets/images/products/packaging/flooring-tape.jpg"
+    },
+    {
+      "title": "Insulation Tape",
+      "img": "../assets/images/products/packaging/ensulation-tape.jpg"
+    },
+    {
+      "title": "Masking Tape",
+      "img": "../assets/images/products/packaging/masking-tape.jpg"
+    },
+    {
+      "title": "Colour Tape",
+      "img": "../assets/images/products/packaging/colored-tape.jpg"
+    },
+    {
+      "title": "Plastic Bags",
+      "img": "../assets/images/products/packaging/plastic-bags.jpg"
+    },
+    {
+      "title": "Locking Bags",
+      "img": "../assets/images/products/packaging/locking-bag.jpg"
+    },
+    {
+      "title": "Stripping Patti",
+      "img": "../assets/images/products/packaging/stripping-patti.jpg"
+    },
+    {
+      "title": "Stripping Clip",
+      "img": "../assets/images/products/packaging/stripping-clip.jpg"
+    },
+    {
+      "title": "Loop Pin",
+      "img": "../assets/images/products/packaging/loop-pin.jpg"
+    },
+    {
+      "title": "Cable Tie",
+      "img": "../assets/images/products/packaging/cable-tie.jpg"
+    },
+    {
+      "title": "Container Locking Seal",
+      "img": "../assets/images/products/packaging/container-locking-seal.jpg"
+    },
+    {
+      "title": "Cello Tape Dispenser",
+      "img": "../assets/images/products/packaging/cello-tape-dispenser.jpg"
+    },
+    {
+      "title": "Thermal Paper Roll",
+      "img": "../assets/images/products/packaging/thermal-paper-roll.jpg"
+    },
+    {
+      "title": "Adding Machine Roll",
+      "img": "../assets/images/products/packaging/adding-machine-roll.jpg"
+    },
+    {
+      "title": "Wax Ribbon",
+      "img": "../assets/images/products/packaging/wax-ribbon.jpg"
+    },
+    {
+      "title": "Barcode Sticker / Label",
+      "img": "../assets/images/products/packaging/barcode-sticker.jpg"
+    }
+  ],
+  "safety": [
+    {
+      "title": "Helmet",
+      "img": "../assets/images/products/safety/helmet.jpg"
+    },
+    {
+      "title": "Harness",
+      "img": "../assets/images/products/safety/harness.jpg"
+    },
+    {
+      "title": "Safety Goggles",
+      "img": "../assets/images/products/safety/safety-goggle.jpg"
+    },
+    {
+      "title": "Safety Shooes",
+      "img": "../assets/images/products/safety/safety-shooes.jpg"
+    },
+    {
+      "title": "Reflective Jackets",
+      "img": "../assets/images/products/safety/reflector-jacket.jpg"
+    },
+    {
+      "title": "Gloves",
+      "img": "../assets/images/products/safety/glooves.jpg"
+    },
+    {
+      "title": "Light Button",
+      "img": "../assets/images/products/safety/light-button.jpg"
+    },
+    {
+      "title": "Sign Boards",
+      "img": "../assets/images/products/safety/sign-board.jpg"
+    },
+    {
+      "title": "PPE Kit",
+      "img": "../assets/images/products/safety/ppe-kit.jpg"
+    },
+    {
+      "title": "Shell Cover",
+      "img": "../assets/images/products/safety/shell-cover.jpg"
+    },
+    {
+      "title": "Mask",
+      "img": "../assets/images/products/safety/mask.jpg"
+    },
+    {
+      "title": "Nitria / Latex Gloves",
+      "img": "../assets/images/products/safety/nitrial-glooves.jpg"
+    }
+  ],
+  "gifting": [
+    {
+      "title": "Employee Welcome Kit",
+      "img": "../assets/images/products/gifting/employee-welcome-kit.jpg"
+    },
+    {
+      "title": "Diary",
+      "img": "../assets/images/products/gifting/diary.jpg"
+    },
+    {
+      "title": "Premium Pens",
+      "img": "../assets/images/products/gifting/premium-pens.jpg"
+    },
+    {
+      "title": "Power Banks",
+      "img": "../assets/images/products/gifting/power-bank.jpg"
+    },
+    {
+      "title": "Bottle",
+      "img": "../assets/images/products/gifting/bottle.jpg"
+    },
+    {
+      "title": "Card Holder",
+      "img": "../assets/images/products/gifting/card-holder.jpg"
+    },
+    {
+      "title": "Coffee Mug",
+      "img": "../assets/images/products/gifting/coffee-mug.jpg"
+    },
+    {
+      "title": "Pen Holder",
+      "img": "../assets/images/products/gifting/pen-holder.jpg"
+    },
+    {
+      "title": "Laptop Bag",
+      "img": "../assets/images/products/gifting/laptop-bags.jpg"
+    },
+    {
+      "title": "Head Phones",
+      "img": "../assets/images/products/gifting/headphones.jpg"
+    },
+    {
+      "title": "Smart Watch",
+      "img": "../assets/images/products/gifting/smart-watch.jpg"
+    },
+    {
+      "title": "T-Shirts",
+      "img": "../assets/images/products/gifting/t-shirts.jpg"
+    },
+    {
+      "title": "Key Chains",
+      "img": "../assets/images/products/gifting/key-chain.jpg"
+    },
+    {
+      "title": "Helmets",
+      "img": "../assets/images/products/gifting/helmets.jpg"
+    }
+  ],
+  "electronics": [
+    {
+      "title": "Key Board",
+      "img": "../assets/images/products/electronics/keybord.jpg"
+    },
+    {
+      "title": "Mouse",
+      "img": "../assets/images/products/electronics/mouse.jpg"
+    },
+    {
+      "title": "Printer",
+      "img": "../assets/images/products/electronics/printer.jpg"
+    },
+    {
+      "title": "Toner/Cartitridge/Ink",
+      "img": "../assets/images/products/electronics/toner.jpg"
+    },
+    {
+      "title": "Pen Drive",
+      "img": "../assets/images/products/electronics/pen-drive.jpg"
+    },
+    {
+      "title": "Hard Disk",
+      "img": "../assets/images/products/electronics/hard-disk.jpg"
+    },
+    {
+      "title": "Laptop",
+      "img": "../assets/images/products/electronics/laptop.jpg"
+    },
+    {
+      "title": "Display",
+      "img": "../assets/images/products/electronics/display.jpg"
+    },
+    {
+      "title": "Printer Ribbon",
+      "img": "../assets/images/products/electronics/printer-ribbon.jpg"
+    },
+    {
+      "title": "Dotmatrix Printer Paper",
+      "img": "../assets/images/products/electronics/dot-matrix-printer-paper.jpg"
+    },
+    {
+      "title": "Router",
+      "img": "../assets/images/products/electronics/router.jpg"
+    },
+    {
+      "title": "Telephone Landline",
+      "img": "../assets/images/products/electronics/landline.jpg"
+    },
+    {
+      "title": "Ahuja Mic System",
+      "img": "../assets/images/products/electronics/ahuja-mic-system.jpg"
+    },
+    {
+      "title": "Lamination Machine",
+      "img": "../assets/images/products/electronics/lamination-machine.jpg"
+    },
+    {
+      "title": "Sealing Machine",
+      "img": "../assets/images/products/electronics/sealing-machine.jpg"
+    }
+  ],
+  "furniture": [
+    {
+      "title": "Chair Office / Reception",
+      "img": "../assets/images/products/furniture/1.jpg"
+    },
+    {
+      "title": "Table",
+      "img": "../assets/images/products/furniture/2.jpg"
+    },
+    {
+      "title": "Water Dispenser",
+      "img": "../assets/images/products/furniture/3.jpg"
+    },
+    {
+      "title": "Pool Table",
+      "img": "../assets/images/products/furniture/4.jpg"
+    },
+    {
+      "title": "Table Tennis Table",
+      "img": "../assets/images/products/furniture/5.jpg"
+    },
+    {
+      "title": "Frame",
+      "img": "../assets/images/products/furniture/6.jpg"
+    },
+    {
+      "title": "Magazine Rack",
+      "img": "../assets/images/products/furniture/7.jpg"
+    },
+    {
+      "title": "Boss Chair",
+      "img": "../assets/images/products/furniture/8.jpg"
+    },
+    {
+      "title": "Office Sofa",
+      "img": "../assets/images/products/furniture/9.jpg"
+    },
+    {
+      "title": "Office Storage Almirah",
+      "img": "../assets/images/products/furniture/10.jpg"
+    },
+    {
+      "title": "Step Stool",
+      "img": "../assets/images/products/furniture/11.jpg"
+    },
+    {
+      "title": "Metal Dustbin",
+      "img": "../assets/images/products/furniture/12.jpg"
+    },
+    {
+      "title": "Soft Board",
+      "img": "../assets/images/products/furniture/13.jpg"
+    },
+    {
+      "title": "Glass Board",
+      "img": "../assets/images/products/furniture/14.jpg"
+    },
+    {
+      "title": "Office Tray",
+      "img": "../assets/images/products/furniture/15.jpg"
+    },
+    {
+      "title": "HDMI Cable",
+      "img": "../assets/images/products/furniture/16.jpg"
+    },
+    {
+      "title": "Lan Cable",
+      "img": "../assets/images/products/furniture/17.jpg"
+    },
+    {
+      "title": "Projector",
+      "img": "../assets/images/products/furniture/18.jpg"
+    },
+    {
+      "title": "LED Screen",
+      "img": "../assets/images/products/furniture/19.jpg"
+    }
+  ],
+  "seasonal": [
+    {
+      "title": "Raincoats",
+      "img": "../assets/images/products/seasonal/raincoats.jpg"
+    },
+    {
+      "title": "Jackets",
+      "img": "../assets/images/products/seasonal/jacket.jpg"
+    },
+    {
+      "title": "Gum Boots",
+      "img": "../assets/images/products/seasonal/gumboots.jpg"
+    },
+    {
+      "title": "Helmets",
+      "img": "../assets/images/products/seasonal/helmets.jpg"
+    },
+    {
+      "title": "Umbrella",
+      "img": "../assets/images/products/seasonal/umbrella.jpg"
+    },
+    {
+      "title": "Beach Umbrella",
+      "img": "../assets/images/products/seasonal/beach-umbrella.jpg"
+    },
+    {
+      "title": "Rubber Floor Mat",
+      "img": "../assets/images/products/seasonal/rubber-floor-matt.jpg"
+    },
+    {
+      "title": "Hollow Floor Mat",
+      "img": "../assets/images/products/seasonal/hollow-floor-matt.jpg"
+    },
+    {
+      "title": "Grass Floor Mat",
+      "img": "../assets/images/products/seasonal/grass-floor-matt.jpg"
+    },
+    {
+      "title": "Cotton Floor Mat",
+      "img": "../assets/images/products/seasonal/cotton-floor-matt.jpg"
+    }
+  ]
+}
